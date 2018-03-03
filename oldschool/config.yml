@@ -1,0 +1,22 @@
+----
+category:   reverse
+points:     200
+short:      oldschool
+name:       "Old School"
+author:     nsychev
+description: >
+  Очень странная программа, ни на одном компе не получилось запустить.
+  
+  И что же с ней делать?
+attachments:
+  - SOFTWARE.EXE
+hints:
+  -
+    cost:   70
+    text:   SOFTWARE.EXE: MS-DOS executable, MZ for MS-DOS
+  -
+    cost:   100
+    text:   Тебе поможет адрес 0x0075
+flags:
+  -
+    text:   "ugra_i_l3ve_01d_sch001_s0_mU5h"
