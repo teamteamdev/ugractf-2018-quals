@@ -1,0 +1,17 @@
+----
+category:   web
+points:     200
+short:      six
+name:       "The Sixth Generation"
+author:     nsychev
+description: >
+  Мне передали лист бумаги и сказали, что он приведет к флагу. 
+  На листе были только непонятные символы: `2001:19f0:7001:ab0::1337`.
+  Что бы это могло значить?
+hints:
+  -
+    cost:   80
+    text:   Всегда ли IP-адрес выглядит как 12.34.56.78?
+flags:
+  -
+    text:   "ugractfuseipv6everyday"
