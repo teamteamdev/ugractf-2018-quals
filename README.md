@@ -4,6 +4,10 @@
 
 ## Таски
 
+### web
+
+* [The Sixth Generation](six/) (200)
+
 ### reverse
 
 * [Old school](oldschool/) (150)
