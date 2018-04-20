@@ -1,0 +1,17 @@
+----
+category:   recon
+points:     50
+short:      social
+name:       "Find the hacker"
+author:     nsychev
+description: >
+  Феодальная служба бюрократии находится на пороге раскрытия нового дела.
+  Мы почти нашли всю хакерскую группировку Omnomnomius во главе с Петром a.k.a.
+  xaxx0rl1v3. Получится ли у нас ещё что-то найти насчет этого злого хакера?
+hints:
+  -
+    cost:   25
+    text:   Он может использовать свой ник где-то ещё
+flags:
+  -
+    text:   "ugractf_hard_xaxxor_found"
