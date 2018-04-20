@@ -1,0 +1,8 @@
+version: '2'
+services:
+    container_name: address
+    build: .
+    image: ugractf/address
+    ports:
+        - "30001:5000"
+    restart: always

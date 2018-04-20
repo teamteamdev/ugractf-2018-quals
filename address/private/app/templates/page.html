@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Federal Expert Service</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&subset=cyrillic');
+
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #ccc;
+            min-height: 100vh;
+        }
+        
+        article {
+            padding: 3rem;
+            font-family: 'Roboto Slab', serif;
+            font-size: 1.25rem;
+            background: #fff;
+        }
+        
+        input, button {
+            padding: 5px 10px;
+            font-size: 1.25rem;
+            font-family: 'Roboto Slab', serif;
+        }
+        
+        input {
+            width: 100%;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <article>
+        <h1>Flag Reward!</h1>
+        <p>Для получения флага введите искомое значение:</p>
+        {% if flag %}
+        <p style="color: darkgreen;">Спасибо за Петра!<br/>Флаг: <b>ugra_look_at_all_photos</b></p>
+        {% else %}
+        {% if wrong %}
+        <p style="color: red;">Петр не обнаружен в данном месте, попробуйте ещё раз</p>
+        {% endif %}
+        <form method="post" action="">
+            <p><input type="text" name="street" placeholder="Русскими буквами" /></p>
+            <p><button>Проверить</button></p>
+        </form>
+        {% endif %}
+        <hr/>
+        <p>&copy; Federal Expert Service, 2018</p>
+    </article>
+</body>
+</html>
+    
