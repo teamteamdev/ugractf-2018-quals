@@ -1,0 +1,14 @@
+----
+category:   stegano
+points:     400
+short:      secretpng
+name:       "Secret Picture"
+author:     nsychev
+description: >
+  Эти буквы точно должны объяснить, как был спрятан текст. 
+  Но мы уже несколько дней бьемся и ничего не можем понять!
+attachments:
+  - secret.png
+flags:
+  -
+    text:   "ugractfeveryonelikespngfilters"
