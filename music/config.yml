@@ -1,0 +1,14 @@
+----
+category:   recon
+points:     100
+short:      music
+name:       "Strange music"
+author:     nsychev
+description: >
+  У хакера Петра очень странные музыкальные предпочтения. Похоже, что с помощью
+  безобидных музыкальных файлов группировка организует свои преступления.
+  
+  Найдите источник обмена информацией, а дальше мы всё сделаем!
+flags:
+  -
+    text:   "ugractf_you_like_recognize_audio_flags"
