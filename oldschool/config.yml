@@ -1,4 +1,3 @@
-----
 category:   reverse
 points:     200
 short:      oldschool
@@ -13,7 +12,7 @@ attachments:
 hints:
   -
     cost:   70
-    text:   SOFTWARE.EXE: MS-DOS executable, MZ for MS-DOS
+    text:   "SOFTWARE.EXE: MS-DOS executable, MZ for MS-DOS"
   -
     cost:   100
     text:   Тебе поможет адрес 0x0075
