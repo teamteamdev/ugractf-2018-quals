@@ -1,0 +1,5 @@
+[
+    "<b>TODO:</b> <ul><li>make user registration</li><li>move to database</li><li>remove my secret key from GitHub</li></ul>",
+    "<font color='gray'>flag: ugra_keep_secret_key_safe</font>",
+    "test it works!"
+]

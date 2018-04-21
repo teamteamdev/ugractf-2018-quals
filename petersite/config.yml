@@ -1,0 +1,18 @@
+----
+category:   recon
+points:     250
+short:      petersite
+name:       "Peter Website"
+author:     nsychev
+description: >
+  Кажется, Петя ещё и сайты делает. Надеемся, что они такие же дырявые, как и его малвари.
+  Найдете флаг?
+url: https://xaxxor.ugractf.ru/
+hints:
+  -
+    cost:   50
+    text:   Этот таск тесно связан как с реконом, так и с вебом
+flags:
+  -
+    text:   "ugra_keep_secret_key_safe"
+

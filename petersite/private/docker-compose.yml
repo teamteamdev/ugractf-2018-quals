@@ -1,0 +1,8 @@
+version: '2'
+services:
+    container_name: xaxxor
+    build: .
+    image: ugractf/xaxxor
+    ports:
+        - "30002:5000"
+    restart: always
