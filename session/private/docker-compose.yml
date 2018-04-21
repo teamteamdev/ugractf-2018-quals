@@ -1,0 +1,9 @@
+version: '2'
+services:
+  session:
+    container_name: session
+    build: .
+    image: ugractf/session
+    ports:
+        - "30003:80"
+    restart: always
