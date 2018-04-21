@@ -1,6 +1,6 @@
 # Ugra CTF 2018 Quals
 
-21 апреля 2018 года | [Официальный сайт](https://ugractf.ru) | Результаты — __coming soon__
+21 апреля 2018 года | [Официальный сайт](https://ugractf.ru) | [Результаты](SCOREBOARD.md)
 
 ## Таски
 
