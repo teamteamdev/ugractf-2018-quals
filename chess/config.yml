@@ -1,0 +1,14 @@
+category:   joy
+points:     200
+short:      chess
+name:       "Play some chess"
+author:     arimionim
+description: >
+    Надоело решать CTF? Пора отдохнуть и поиграть в шахматы!
+    Скачай приложение lichess или зайди на lichess.org, 
+    создай игру с настройками, как на картинке и скинь ссылку 
+    в телеграм @arimionim. Если хорошо сыграешь — флаг твой!
+url: https://pp.userapi.com/c846521/v846521941/30cdf/b51ZEkMMUbE.jpg
+flags:
+    - 
+        text: "ugractf_hard_ch3ss_task"
