@@ -1,0 +1,13 @@
+----
+category:   crypto
+points:     50
+short:      entities
+name:       "Entities"
+author:     nsychev
+description: >
+ А что скажете на такую кодировку?
+attachments:
+  - encrypted.txt
+flags:
+  -
+    text:   "ugractf_i_found_charcodes"
