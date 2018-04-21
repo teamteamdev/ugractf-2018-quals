@@ -7,4 +7,4 @@ web, 100 points
 >
 > [Ссылка](https://login.ugractf.ru/)
 
-[Write-up}(WRITEUP.md)
+[Write-up](WRITEUP.md)
