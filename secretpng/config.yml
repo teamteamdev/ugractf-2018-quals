@@ -1,4 +1,3 @@
-----
 category:   stegano
 points:     400
 short:      secretpng
@@ -9,6 +8,7 @@ description: >
   Но мы уже несколько дней бьемся и ничего не можем понять!
 attachments:
   - secret.png
+url: https://yadi.sk/i/-EDY1oET3Uct3d
 flags:
   -
     text:   "ugractfeveryonelikespngfilters"

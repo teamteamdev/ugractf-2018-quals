@@ -1,4 +1,3 @@
-----
 category:   stegano
 points:     200
 short:      raw
@@ -10,6 +9,7 @@ description: >
   Может быть, вы лучше разбираетесь в этом?
 attachments:
   - data
+url: https://yadi.sk/d/6WZy24rZ3Uct2w
 hints:
   -
     cost:   50
