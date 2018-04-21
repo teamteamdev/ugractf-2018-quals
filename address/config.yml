@@ -1,14 +1,13 @@
-----
 category:   recon
-points:     100
-short:      music
-name:       "Strange music"
+points:     125
+short:      address
+name:       "Where is hacker?"
 author:     nsychev
 description: >
-  У хакера Петра очень странные музыкальные предпочтения. Похоже, что с помощью
-  безобидных музыкальных файлов группировка организует свои преступления.
-  
-  Найдите источник обмена информацией, а дальше мы всё сделаем!
+  Зачем нам закрывать сайт хакеров, если мы можем просто их арестовать?
+  Только мы не знаем, где живет Петр. Награда за название улицы, где он 
+  живет - флаг!
+url: https://fes.ugractf.ru/
 flags:
   -
-    text:   "ugractf_you_like_recognize_audio_flags"
+    text:   "ugra_look_at_all_photos"
