@@ -1,0 +1,12 @@
+category:   crypto
+points:     100
+short:      emoji
+name:       "Code of Emojis"
+author:     nsychev
+description: >
+    А вы тоже не любите, когда люди в середине своих сообщений вставляют эмодзи?
+    Тогда этот таск для вас!
+url: https://yadi.sk/i/VnnW0Fpc3UdGPa
+flags:
+    - 
+        text: "ugractf_substitutions_are_pretty_easy"
